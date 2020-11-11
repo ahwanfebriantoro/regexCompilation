@@ -13,3 +13,8 @@
 #### atau
 ```\+?([ -]?\d+)+|\(\d+\)([ -]\d+)```
 <hr />
+
+### Postal code / zip code / Kode pos
+#### Global
+see <a href='https://gist.github.com/jamesbar2/1c677c22df8f21e869cca7e439fc3f5b' target='_blank'>here</a>
+<hr />
